@@ -1,0 +1,6 @@
+framework module Pods_Bicycle_Shop {
+  umbrella header "Pods-Bicycle Shop-umbrella.h"
+
+  export *
+  module * { export * }
+}
